@@ -22,9 +22,11 @@ After, the user needs to insert coins, he accepts quarters, dimes, nickels, and 
 If user inserts enough money and enough ingredients in the machine, then the user can get his coffee and change.
 
 ![Alt text](https://github.com/StannlyGo/CoffeeMachine/blob/master/img/success.png)
+
 If user inserts not enough money, then he will be informed about it, and money will be refunded.
 
 ![Alt text](https://github.com/StannlyGo/CoffeeMachine/blob/master/img/not%20enough%20money.png)
+
 And finally, if there are not enough ingredients in the machine then user will be informed about it before inserting coins.
 
 ![Alt text](https://github.com/StannlyGo/CoffeeMachine/blob/master/img/not%20enough%20ing.png)
