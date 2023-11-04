@@ -15,7 +15,7 @@ All 7 paragraphs were realized.
 ## Overview
 #### Drink selection
 First user will be asked about drink what he wants (espresso, latte, or cappuccino).
-![Alt text](<https://ibb.co/hDkSqdf>)
+![Alt text](https://github.com/StannlyGo/CoffeeMachine/blob/master/img/drink%20selection.png)
 #### Money inserting
 After, the user needs to insert coins, he accepts quarters, dimes, nickels, and pennies. 
 If user inserts enough money and enough ingredients in the machine, then the user can get his coffee and change.
