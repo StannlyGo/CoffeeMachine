@@ -11,7 +11,7 @@ All requirements can be found in the PDF below.
 
 [Requirments](https://docdro.id/ys8MTHB)
 
-All 7 paragraphs were realized.
+All 7 points were implemented.
 ## Overview
 #### Drink selection
 First user will be asked about drink what he wants (espresso, latte, or cappuccino).
